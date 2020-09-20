@@ -23,3 +23,26 @@ This is the first course of the Reinforcement Learning Specialization.
 - [Project](./course1/week1/project)
 - [Quiz](./course1/week1/quiz)
 - [Note](./course1/week1/notes)
+
+### Week2
+
+- [Materials](./course1/week2/materials)
+- [Project](./course1/week2/project)
+- [Quiz](./course1/week2/quiz)
+- [Note](./course1/week2/notes)
+
+
+### Week3
+
+- [Materials](./course1/week3/materials)
+- [Project](./course1/week3/project)
+- [Quiz](./course1/week3/quiz)
+- [Note](./course1/week3/notes)
+
+
+### Week4
+
+- [Materials](./course1/week4/materials)
+- [Project](./course1/week4/project)
+- [Quiz](./course1/week4/quiz)
+- [Note](./course1/week4/notes)
